@@ -9,10 +9,8 @@ Cada res se identifica por su código de chapeta electrónica asignado por el IC
 Jeison - Uniremington Yopal - Algoritmos II - 3er Semestre - 2026
 
 ## Estructura del proyecto
-Parcial2/
-├── NodoAnimal.java   → clase que representa cada res (código, raza, peso, edad)
-├── ArbolBST.java     → BST con inserción recursiva, inorden, buscar y modificar
-└── Principal.java    → menú interactivo en consola
+<img width="620" height="260" alt="image" src="https://github.com/user-attachments/assets/7cf0c2ae-51cb-4d13-9141-bdf707b287dc" />
+
 
 ## Requisitos
 - Java 8 o superior
